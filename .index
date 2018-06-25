@@ -7,4 +7,5 @@
   <indexes urn="urn:nn:com.emc.xcp.artifact.page:Artifacts/Pages/application_parameter.page" categoryId="com.emc.xcp.artifact.page" path="Artifacts/Pages/application_parameter.page" label="Manage Application Parameters" name="application_parameter"/>
   <indexes urn="urn:nn:com.emc.xcp.artifact.page:Artifacts/Pages/role_member.page" categoryId="com.emc.xcp.artifact.page" path="Artifacts/Pages/role_member.page" label="View Role Member" name="role_member"/>
   <indexes urn="urn:nn:com.emc.xcp.artifact.viewermapping:Artifacts/Viewer Formats/viewerformatmapping.viewerformat" categoryId="com.emc.xcp.artifact.viewermapping" path="Artifacts/Viewer Formats/viewerformatmapping.viewerformat" label="Viewers and Formats" name="viewerformatmapping"/>
+  <indexes urn="urn:nn:com.emc.xcp.artifact.page:Artifacts/Pages/test.page" categoryId="com.emc.xcp.artifact.page" path="Artifacts/Pages/test.page" label="test" name="test"/>
 </Artifact:ArtifactIndexes>
