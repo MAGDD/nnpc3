@@ -115,8 +115,13 @@
             <children xsi:type="uitemplate:Container" componentDefinitionId="xcp_menu" parent="//@rootContainer/@children.0/@children.0/@children.0/@children.0" widgetEntry="//@widgetMap[key='menu']">
               <properties name="xcpId" value="menu" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.0"/>
               <propertyMap key="xcpId" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@properties.0"/>
+<<<<<<< HEAD
               <children xsi:type="uitemplate:Container" componentDefinitionId="xcp_nav_menuitem" parent="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0" widgetEntry="//@widgetMap[key='nav_menuitem']">
                 <properties name="text" value="test2" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.0"/>
+=======
+              <children xsi:type="uitemplate:Container" componentDefinitionId="xcp_nav_menuitem" parent="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0" widgetEntry="//@widgetMap[key='test1']">
+                <properties name="text" value="test11" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.0"/>
+>>>>>>> e3426f8e3e1ac55726d1feab62e364ba06f93b0d
                 <properties name="iconCls" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.1"/>
                 <properties name="hidden" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.2"/>
                 <properties name="disabled" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.3"/>
@@ -129,7 +134,11 @@
                 <properties name="navToNewTab" value="" type="BOOLEAN" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.10"/>
                 <properties name="navNewTabTarget" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.11"/>
                 <properties name="navUrlParams" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.12"/>
+<<<<<<< HEAD
                 <properties name="xcpId" value="nav_menuitem" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.13"/>
+=======
+                <properties name="xcpId" value="test1" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@propertyMap.13"/>
+>>>>>>> e3426f8e3e1ac55726d1feab62e364ba06f93b0d
                 <propertyMap key="text" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@properties.0"/>
                 <propertyMap key="iconCls" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@properties.1"/>
                 <propertyMap key="hidden" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0/@properties.2"/>
@@ -243,5 +252,9 @@
   <widgetMap key="user_button" value="//@rootContainer/@children.0/@children.0/@children.0/@children.3"/>
   <widgetMap key="page" value="//@rootContainer/@children.1"/>
   <widgetMap key="menu" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0"/>
+<<<<<<< HEAD
   <widgetMap key="nav_menuitem" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0"/>
+=======
+  <widgetMap key="test1" value="//@rootContainer/@children.0/@children.0/@children.0/@children.0/@children.0/@children.0"/>
+>>>>>>> e3426f8e3e1ac55726d1feab62e364ba06f93b0d
 </uitemplate:Page>
