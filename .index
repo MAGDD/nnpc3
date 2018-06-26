@@ -9,6 +9,6 @@
   <indexes urn="urn:nn:com.emc.xcp.artifact.viewermapping:Artifacts/Viewer Formats/viewerformatmapping.viewerformat" categoryId="com.emc.xcp.artifact.viewermapping" path="Artifacts/Viewer Formats/viewerformatmapping.viewerformat" label="Viewers and Formats" name="viewerformatmapping"/>
   <indexes urn="urn:nn:com.emc.xcp.artifact.page:Artifacts/Pages/test.page" categoryId="com.emc.xcp.artifact.page" path="Artifacts/Pages/test.page" label="test" name="test"/>
   <indexes urn="urn:nn:com.emc.xcp.artifact.rtappconfig:Artifacts/Runtime App Configurations/runtimeappconfig.rtappconfig" categoryId="com.emc.xcp.artifact.rtappconfig" path="Artifacts/Runtime App Configurations/runtimeappconfig.rtappconfig" label="runtimeappconfig" name="runtimeappconfig"/>
-  <indexes urn="urn:nn:com.emc.xcp.artifact.approle:Artifacts/Roles/test_role.role" categoryId="com.emc.xcp.artifact.approle" path="Artifacts/Roles/test_role.role" label="Test Role" name="test_role"/>
   <indexes urn="urn:nn:com.emc.xcp.artifact.endpoint:Artifacts/Endpoints/repo.endpoint" categoryId="com.emc.xcp.artifact.endpoint" path="Artifacts/Endpoints/repo.endpoint" label="repo" name="repo"/>
+  <indexes urn="urn:nn:com.emc.xcp.artifact.approle:Artifacts/Roles/test_role.role" categoryId="com.emc.xcp.artifact.approle" path="Artifacts/Roles/test_role.role" label="Test Role" name="test_role"/>
 </Artifact:ArtifactIndexes>
